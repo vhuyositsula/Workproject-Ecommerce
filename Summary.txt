@@ -1,0 +1,19 @@
+
+Project Summary
+-----------------
+
+Adamin
+<--------->
+-Admin can add new product
+-Admin can edit added product
+-Admin can delete product
+-Admin can search for a specific product
+
+Customer
+<---------->
+-Customer can view products and can view a specific product 
+-Customer can search products
+-Custmer can add product to cart
+-Customer can remove product from cart
+-Customer can view ordered product which are from the cart
+-Customer can check out include entering delivery address in which the product can be delivered to.
