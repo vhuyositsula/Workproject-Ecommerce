@@ -1,0 +1,166 @@
+
+  
+<header>
+    <nav class="navbar navbar-expand-sm border-bottom mb-2" >
+      <a class="navbar-brand" (click)="backToStore()" ><img src="assets/img/LogoPnP.png"></a>
+      <!--<p *ngFor="let alert of alerts">
+        <ngb-alert style="width: 300px;" [type]="alert.type" (close)="closeAlert(alert)">{{ alert.message }}</ngb-alert>
+      </p>-->
+      <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+        <ul class="navbar-nav flex-grow-2">
+          <li class="nav-item" *ngIf="(LoginStatus$ | async) as LoginStatus">
+               <a class="nav-link " style="color:  #991F41" *ngIf="(UserName$ | async) as UserName">{{UserName | uppercase}}</a>
+          </li>
+          <li class="nav-item">
+                <a class="nav-link " (click)="backToStore()" ><u>Store</u></a>
+          </li>   
+          <li class="nav-item">
+              <span>|</span>
+          </li>
+          <li class="nav-item" *ngIf="(LoginStatus$ | async) as LoginStatus">
+            <a class="nav-link " (click)="onLogout()" *ngIf="LoginStatus" ><u>Logout</u></a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+</header>
+
+
+<ngb-accordion #acc="ngbAccordion" [closeOthers]="true" activeIds="static-1">
+    <ngb-panel id="static-1" title="Item Details">
+      <ng-template ngbPanelContent>
+          <div id="collapseExample" [ngbCollapse]="false">
+            <div class="container-fluid" >
+              <h3 style="color:chocolate"><span style="margin-left: 5%;margin-right: 22%;color: greenyellow"></span>
+                <button class="btn btn-outline-success float-right" (click)="acc.toggle('static-2')">CheckOut</button>
+              </h3>
+              <p class="float-right">
+                <strong>Total value is: {{allTotal | currency: 'ZAR':'symbol-narrow':'.2'}}</strong>
+              </p>
+              <table  class="table table-bordered row-border hover" style="width:100%">
+                <thead class="text-center ">
+                <tr>
+                  <th>Image</th>
+                  <th>Name & Description</th>
+                  <th>Price</th>
+                  <th>Quantity</th>
+                  <th>Add/Remove</th>
+                  <th>Total For Item</th>
+                </tr>
+                </thead>
+                <tbody>
+                  <tr *ngFor="let product of productAddedToTrolley;let q = index" class="text-center">
+                    <td><img src="assets/{{product.imgUrl}}"></td>
+                    <td>{{product.name | uppercase}}-{{product.description}}</td>
+                    <td>{{product.price | currency: 'ZAR':'symbol-narrow':'.2'}}</td>
+                    <td>{{product.quantity}}</td>
+                    <td>
+                      <div class="form-inline">
+                        <button class="btn btn-success btn-circle btn-circle-sm m-1" (click)="onAddQuantity(product)"><i class="fas fa-plus"></i></button>
+                        <input type="text"  [ngModel] ="product.quantity" (ngModelChange) ="product.quantity=$event" class="form-control form-inline" id="count">
+                        <button class="btn btn-warning btn-circle btn-circle-sm m-1" (click)="onRemoveQuantity(product)"><i class="fas fa-minus"></i></button>
+                      </div>
+                    </td>
+                    <td>{{product.price * product.quantity | currency: 'ZAR':'symbol-narrow':'.2'}}</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+       </ng-template>
+    </ngb-panel>
+
+
+    <ngb-panel id="static-2" title="Order Details">
+        <ng-template ngbPanelContent>
+            <form [formGroup]="deliveryForm">
+                <div class="form-group">
+                  <div class="col-md-12">
+                    <h5>Name:</h5>  <input type="text"  formControlName="UserName" class="form-control"   >
+                  </div>
+                  <div class="col-md-12">
+                      <h5>Delivery Address:</h5> 
+                      <textarea id="textarea" name="textarea" formControlName="DeliveryAddress" class="form-control"  rows="3" cols="15"></textarea>
+                    </div>
+                    <div class="col-md-12">
+                        <h5>Phone:</h5>  <input type="text" formControlName="Phone" class="form-control"   >
+                      </div>
+                      <div class="col-md-12">
+                          <h5>Email:</h5>  <input type="text" formControlName="Email" class="form-control"   >
+                        </div>
+                        <div class="col-md-12">
+                            <h5>Special Message/ Instructions:</h5>  <input type="text" formControlName="Message" class="form-control"   >
+                          </div>
+                          <div class="col-md-12">
+                              <h5>Total Amount To Pay:</h5>  <input type="text" formControlName="Amount" class="form-control"   >
+                            </div>
+                </div>
+                <button type="button" style="margin-left: 39%;" [disabled]="!deliveryForm.valid" class="btn btn-outline-success" (click)="acc.toggle('static-3')"><b>Proceed to pay</b></button>
+              </form>
+        </ng-template>
+      </ngb-panel>
+    
+    
+    <ngb-panel ngb-panel id="static-3" title="Confirm Your Order">
+        <ng-template ngbPanelContent>
+   <table>
+     <tr class="col-md-12">
+        <td class="col-md-6"><h2>Item Details</h2></td>
+       <td class="col-md-6"><h2>Delivery Details</h2></td>          
+     </tr>
+     <tr class="col-md-12">
+       <td class="col-md-6">
+         <!-- -- Item details Table -->
+         <table class="table table-bordered  table-hover">
+            <thead class="thead-light">
+            <tr>
+              <th>Name & Description</th>
+              <th>Price</th>
+              <th>Quantity</th>
+              <th>Total For Item</th>
+            </tr>
+            </thead>
+            <tr *ngFor="let product of productAddedToTrolley;let q = index">
+              <td class="text-center">{{product.name}}</td>
+              <td>{{product.price}}</td>
+              <td>{{product.quantity}}</td>
+              <td>{{product.price * product.quantity}}</td>
+            </tr>
+          </table>
+
+       </td>
+
+       <td class="col-md-6">
+        <!-- --Delivery Table -->
+        <table class="table table-bordered  table-hover">
+            <thead class="thead-light">
+            <tr>
+              <th>Name</th>
+              <th>Delivery Address</th>
+              <th>Phone</th>
+              <th>Email</th>
+              <th>Message</th>
+            </tr>
+            </thead>
+            <tr>
+              <td>{{deliveryForm.value.UserName}}</td>
+              <td>{{deliveryForm.value.DeliveryAddress}}</td>
+              <td>{{deliveryForm.value.Phone}}</td>
+              <td>{{deliveryForm.value.Email}}</td>
+              <td>{{deliveryForm.value.Message}}</td>
+            </tr>
+          </table>
+                 </td>
+   </tr>
+   <tr>
+     <td  class="text-center" >
+        <button type="button" class="btn btn-outline-success" (click)="ConfirmOrder()"><b>Confirm Order</b></button>
+     </td>
+   </tr>
+ </table>
+ 
+    
+</ng-template>
+</ngb-panel>
+</ngb-accordion>
+

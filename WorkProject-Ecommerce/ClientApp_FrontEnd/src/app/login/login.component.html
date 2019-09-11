@@ -1,0 +1,37 @@
+<header>
+        <nav class="navbar navbar-expand-sm border-bottom mb-2" >
+          <a class="navbar-brand" [routerLink]='["/home"]' ><img src="assets/img/logo2.png " ></a>
+      
+        </nav>
+ </header>
+ <div class="text-center mb-3 alert alert-danger alert-dismissible" *ngIf="invalidLogin"  role="alert">
+    <strong>Invalid Crendatials</strong>
+      <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+      </button>
+  </div>
+ <div class="wrapper" >
+     <div class="loginHeader">
+         Enjoy your Online Shopping
+     </div>
+     <div class="login-page">
+      <div class="form">
+        
+        <form class="login-form form "[formGroup]="insertForm" (ngSubmit)="onSubmit()">
+          
+          <input formControlName="Username" class="form control" type="text" placeholder="username"/>
+          <div *ngIf="Username.touched && Username.errors" class="errorMessage">
+                <span *ngIf="Username.hasError('required')">Username is required.</span>
+           </div>
+          <input formControlName="Password" class="form control"  type="password" placeholder="password"/>
+          <div *ngIf="Password.touched && Password.errors" class="errorMessage">
+              <span *ngIf="Password.hasError('required')">Password is required.</span>
+          </div>
+          <button type="submit" value="Submit" [disabled]="insertForm.invalid">login</button>
+          <p class="message">Not registered? <a [routerLink]='["/registration"]'>Create an account</a></p>
+        </form>
+      </div>
+    </div>
+ </div>
+ 
+     

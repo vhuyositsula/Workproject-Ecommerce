@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+    <UserSecretsId>ng</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20190801222943_InitialCreate.cs" />
+    <Compile Remove="Migrations\20190801222943_InitialCreate.Designer.cs" />
+    <Compile Remove="Migrations\20190821095710_InitialCreate.cs" />
+    <Compile Remove="Migrations\20190821095710_InitialCreate.Designer.cs" />
+    <Compile Remove="Migrations\20190904071754_InitialCreate.cs" />
+    <Compile Remove="Migrations\20190904071754_InitialCreate.Designer.cs" />
+    <Compile Remove="Migrations\20190909065412_initialCreate.cs" />
+    <Compile Remove="Migrations\20190909065412_initialCreate.Designer.cs" />
+    <Compile Remove="Migrations\20190910082846_InitialCreate.cs" />
+    <Compile Remove="Migrations\20190910082846_InitialCreate.Designer.cs" />
+    <Compile Remove="Migrations\20190910084205_InitialCreate.cs" />
+    <Compile Remove="Migrations\20190910084205_InitialCreate.Designer.cs" />
+    <Compile Remove="Migrations\20190911083743_InitialCreate.cs" />
+    <Compile Remove="Migrations\20190911083743_InitialCreate.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.3" />
+  </ItemGroup>
+
+</Project>

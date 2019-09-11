@@ -1,0 +1,32 @@
+.wrapper{
+    background-color: #FFFFFF;
+    -khtml-opacity: .50;
+    -moz-opacity: .50;
+    filter: alpha(opacity=50);
+    filter: progid: DXImageTransform.Microsoft.Alpha(opacity=0.5);
+    opacity: 0.93;
+    position: relative;
+    margin: auto;
+    width: 80%;
+    height: 600px;
+    text-align: center;
+    top: 4%;
+}
+
+.loginHeader{
+
+    font-size: 32px;
+    font-family: 'CachetStd-Medium';
+    color: #a9a9a9;
+    position: relative;
+    top: 7%;
+    margin-bottom: 5%;
+}
+#registerHeading{
+    font-size: 16px;
+    font-family: pnpFont, Arial, sans-serif, Helvetica;
+    color: #a3a3a3;
+    width: 100%;
+    text-align: center;
+    margin: 3% auto
+}

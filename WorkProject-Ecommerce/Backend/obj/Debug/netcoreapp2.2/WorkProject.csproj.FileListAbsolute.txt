@@ -1,0 +1,154 @@
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.deps.json
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.runtimeconfig.json
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.runtimeconfig.dev.json
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.dll
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.pdb
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.csprojAssemblyReference.cache
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.csproj.CoreCompileInputs.cache
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.RazorAssemblyInfo.cache
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.RazorAssemblyInfo.cs
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.AssemblyInfoInputs.cache
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.AssemblyInfo.cs
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.RazorTargetAssemblyInfo.cache
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.dll
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.pdb
+C:\Users\User\Documents\vhuyo2 final\final final\WorkProject\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.deps.json
+C:\Users\User\Documents\vhuyo2 final\final final\WorkProject\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.runtimeconfig.json
+C:\Users\User\Documents\vhuyo2 final\final final\WorkProject\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.runtimeconfig.dev.json
+C:\Users\User\Documents\vhuyo2 final\final final\WorkProject\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.dll
+C:\Users\User\Documents\vhuyo2 final\final final\WorkProject\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.pdb
+C:\Users\User\Documents\vhuyo2 final\final final\WorkProject\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\vhuyo2 final\final final\WorkProject\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.RazorAssemblyInfo.cache
+C:\Users\User\Documents\vhuyo2 final\final final\WorkProject\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.RazorAssemblyInfo.cs
+C:\Users\User\Documents\vhuyo2 final\final final\WorkProject\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.AssemblyInfoInputs.cache
+C:\Users\User\Documents\vhuyo2 final\final final\WorkProject\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.AssemblyInfo.cs
+C:\Users\User\Documents\vhuyo2 final\final final\WorkProject\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\vhuyo2 final\final final\WorkProject\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.dll
+C:\Users\User\Documents\vhuyo2 final\final final\WorkProject\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.pdb
+C:\Users\User\Documents\vhuyo2 final\final final\WorkProject\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.csprojAssemblyReference.cache
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\07 Aug\workProject 07Aug\WorkProject\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.deps.json
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\07 Aug\workProject 07Aug\WorkProject\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.runtimeconfig.json
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\07 Aug\workProject 07Aug\WorkProject\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.runtimeconfig.dev.json
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\07 Aug\workProject 07Aug\WorkProject\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.dll
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\07 Aug\workProject 07Aug\WorkProject\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.pdb
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\07 Aug\workProject 07Aug\WorkProject\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.csprojAssemblyReference.cache
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\07 Aug\workProject 07Aug\WorkProject\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.csproj.CoreCompileInputs.cache
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\07 Aug\workProject 07Aug\WorkProject\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.RazorAssemblyInfo.cache
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\07 Aug\workProject 07Aug\WorkProject\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.RazorAssemblyInfo.cs
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\07 Aug\workProject 07Aug\WorkProject\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.AssemblyInfoInputs.cache
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\07 Aug\workProject 07Aug\WorkProject\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.AssemblyInfo.cs
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\07 Aug\workProject 07Aug\WorkProject\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.RazorTargetAssemblyInfo.cache
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\07 Aug\workProject 07Aug\WorkProject\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.dll
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\07 Aug\workProject 07Aug\WorkProject\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.pdb
+C:\Users\User\Documents\vhuyo2 final\12 aug\WorkProject\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.deps.json
+C:\Users\User\Documents\vhuyo2 final\12 aug\WorkProject\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.runtimeconfig.json
+C:\Users\User\Documents\vhuyo2 final\12 aug\WorkProject\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.runtimeconfig.dev.json
+C:\Users\User\Documents\vhuyo2 final\12 aug\WorkProject\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.dll
+C:\Users\User\Documents\vhuyo2 final\12 aug\WorkProject\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.pdb
+C:\Users\User\Documents\vhuyo2 final\12 aug\WorkProject\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.csprojAssemblyReference.cache
+C:\Users\User\Documents\vhuyo2 final\12 aug\WorkProject\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\vhuyo2 final\12 aug\WorkProject\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.RazorAssemblyInfo.cache
+C:\Users\User\Documents\vhuyo2 final\12 aug\WorkProject\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.RazorAssemblyInfo.cs
+C:\Users\User\Documents\vhuyo2 final\12 aug\WorkProject\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.AssemblyInfoInputs.cache
+C:\Users\User\Documents\vhuyo2 final\12 aug\WorkProject\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.AssemblyInfo.cs
+C:\Users\User\Documents\vhuyo2 final\12 aug\WorkProject\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\vhuyo2 final\12 aug\WorkProject\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.dll
+C:\Users\User\Documents\vhuyo2 final\12 aug\WorkProject\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.pdb
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\12 aug\WorkProject\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.deps.json
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\12 aug\WorkProject\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.runtimeconfig.json
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\12 aug\WorkProject\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.runtimeconfig.dev.json
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\12 aug\WorkProject\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.dll
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\12 aug\WorkProject\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.pdb
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\12 aug\WorkProject\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.csprojAssemblyReference.cache
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\12 aug\WorkProject\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.csproj.CoreCompileInputs.cache
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\12 aug\WorkProject\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.RazorAssemblyInfo.cache
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\12 aug\WorkProject\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.RazorAssemblyInfo.cs
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\12 aug\WorkProject\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.AssemblyInfoInputs.cache
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\12 aug\WorkProject\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.AssemblyInfo.cs
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\12 aug\WorkProject\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.RazorTargetAssemblyInfo.cache
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\12 aug\WorkProject\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.dll
+C:\Users\sitsula vhuyo\Documents\picknpay Final work project\12 aug\WorkProject\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.pdb
+C:\Users\User\Documents\vhuyo2 final\14 August\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.deps.json
+C:\Users\User\Documents\vhuyo2 final\14 August\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.runtimeconfig.json
+C:\Users\User\Documents\vhuyo2 final\14 August\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.runtimeconfig.dev.json
+C:\Users\User\Documents\vhuyo2 final\14 August\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.dll
+C:\Users\User\Documents\vhuyo2 final\14 August\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.pdb
+C:\Users\User\Documents\vhuyo2 final\14 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.csprojAssemblyReference.cache
+C:\Users\User\Documents\vhuyo2 final\14 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\vhuyo2 final\14 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.RazorAssemblyInfo.cache
+C:\Users\User\Documents\vhuyo2 final\14 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.RazorAssemblyInfo.cs
+C:\Users\User\Documents\vhuyo2 final\14 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.AssemblyInfoInputs.cache
+C:\Users\User\Documents\vhuyo2 final\14 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.AssemblyInfo.cs
+C:\Users\User\Documents\vhuyo2 final\14 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\vhuyo2 final\14 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.dll
+C:\Users\User\Documents\vhuyo2 final\14 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.pdb
+C:\Users\User\Documents\vhuyo2 final\15 August\15 August\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.deps.json
+C:\Users\User\Documents\vhuyo2 final\15 August\15 August\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.runtimeconfig.json
+C:\Users\User\Documents\vhuyo2 final\15 August\15 August\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.runtimeconfig.dev.json
+C:\Users\User\Documents\vhuyo2 final\15 August\15 August\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.dll
+C:\Users\User\Documents\vhuyo2 final\15 August\15 August\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.pdb
+C:\Users\User\Documents\vhuyo2 final\15 August\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.csprojAssemblyReference.cache
+C:\Users\User\Documents\vhuyo2 final\15 August\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\vhuyo2 final\15 August\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.RazorAssemblyInfo.cache
+C:\Users\User\Documents\vhuyo2 final\15 August\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.RazorAssemblyInfo.cs
+C:\Users\User\Documents\vhuyo2 final\15 August\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.AssemblyInfoInputs.cache
+C:\Users\User\Documents\vhuyo2 final\15 August\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.AssemblyInfo.cs
+C:\Users\User\Documents\vhuyo2 final\15 August\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\vhuyo2 final\15 August\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.dll
+C:\Users\User\Documents\vhuyo2 final\15 August\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.pdb
+C:\Users\User\Documents\vhuyo2 final\21 aug\15 August\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.deps.json
+C:\Users\User\Documents\vhuyo2 final\21 aug\15 August\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.runtimeconfig.json
+C:\Users\User\Documents\vhuyo2 final\21 aug\15 August\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.runtimeconfig.dev.json
+C:\Users\User\Documents\vhuyo2 final\21 aug\15 August\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.dll
+C:\Users\User\Documents\vhuyo2 final\21 aug\15 August\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.pdb
+C:\Users\User\Documents\vhuyo2 final\21 aug\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.csprojAssemblyReference.cache
+C:\Users\User\Documents\vhuyo2 final\21 aug\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\vhuyo2 final\21 aug\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.RazorAssemblyInfo.cache
+C:\Users\User\Documents\vhuyo2 final\21 aug\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.RazorAssemblyInfo.cs
+C:\Users\User\Documents\vhuyo2 final\21 aug\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.AssemblyInfoInputs.cache
+C:\Users\User\Documents\vhuyo2 final\21 aug\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.AssemblyInfo.cs
+C:\Users\User\Documents\vhuyo2 final\21 aug\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\vhuyo2 final\21 aug\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.dll
+C:\Users\User\Documents\vhuyo2 final\21 aug\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.pdb
+C:\Users\User\Documents\vhuyo2 final\22 aug\21 aug\15 August\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.deps.json
+C:\Users\User\Documents\vhuyo2 final\22 aug\21 aug\15 August\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.runtimeconfig.json
+C:\Users\User\Documents\vhuyo2 final\22 aug\21 aug\15 August\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.runtimeconfig.dev.json
+C:\Users\User\Documents\vhuyo2 final\22 aug\21 aug\15 August\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.dll
+C:\Users\User\Documents\vhuyo2 final\22 aug\21 aug\15 August\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.pdb
+C:\Users\User\Documents\vhuyo2 final\22 aug\21 aug\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.csprojAssemblyReference.cache
+C:\Users\User\Documents\vhuyo2 final\22 aug\21 aug\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\vhuyo2 final\22 aug\21 aug\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.RazorAssemblyInfo.cache
+C:\Users\User\Documents\vhuyo2 final\22 aug\21 aug\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.RazorAssemblyInfo.cs
+C:\Users\User\Documents\vhuyo2 final\22 aug\21 aug\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.AssemblyInfoInputs.cache
+C:\Users\User\Documents\vhuyo2 final\22 aug\21 aug\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.AssemblyInfo.cs
+C:\Users\User\Documents\vhuyo2 final\22 aug\21 aug\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\vhuyo2 final\22 aug\21 aug\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.dll
+C:\Users\User\Documents\vhuyo2 final\22 aug\21 aug\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.pdb
+C:\Users\User\Documents\vhuyo2 final\29 aug\22 aug\21 aug\15 August\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.deps.json
+C:\Users\User\Documents\vhuyo2 final\29 aug\22 aug\21 aug\15 August\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.runtimeconfig.json
+C:\Users\User\Documents\vhuyo2 final\29 aug\22 aug\21 aug\15 August\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.runtimeconfig.dev.json
+C:\Users\User\Documents\vhuyo2 final\29 aug\22 aug\21 aug\15 August\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.dll
+C:\Users\User\Documents\vhuyo2 final\29 aug\22 aug\21 aug\15 August\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.pdb
+C:\Users\User\Documents\vhuyo2 final\29 aug\22 aug\21 aug\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.csprojAssemblyReference.cache
+C:\Users\User\Documents\vhuyo2 final\29 aug\22 aug\21 aug\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\vhuyo2 final\29 aug\22 aug\21 aug\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.RazorAssemblyInfo.cache
+C:\Users\User\Documents\vhuyo2 final\29 aug\22 aug\21 aug\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.RazorAssemblyInfo.cs
+C:\Users\User\Documents\vhuyo2 final\29 aug\22 aug\21 aug\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.AssemblyInfoInputs.cache
+C:\Users\User\Documents\vhuyo2 final\29 aug\22 aug\21 aug\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.AssemblyInfo.cs
+C:\Users\User\Documents\vhuyo2 final\29 aug\22 aug\21 aug\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\vhuyo2 final\29 aug\22 aug\21 aug\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.dll
+C:\Users\User\Documents\vhuyo2 final\29 aug\22 aug\21 aug\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.pdb
+C:\Users\User\Documents\vhuyo2 final\02 sept\29 aug\22 aug\21 aug\15 August\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.deps.json
+C:\Users\User\Documents\vhuyo2 final\02 sept\29 aug\22 aug\21 aug\15 August\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.runtimeconfig.json
+C:\Users\User\Documents\vhuyo2 final\02 sept\29 aug\22 aug\21 aug\15 August\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.runtimeconfig.dev.json
+C:\Users\User\Documents\vhuyo2 final\02 sept\29 aug\22 aug\21 aug\15 August\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.dll
+C:\Users\User\Documents\vhuyo2 final\02 sept\29 aug\22 aug\21 aug\15 August\WorkProject\WorkProject\bin\Debug\netcoreapp2.2\WorkProject.pdb
+C:\Users\User\Documents\vhuyo2 final\02 sept\29 aug\22 aug\21 aug\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.csprojAssemblyReference.cache
+C:\Users\User\Documents\vhuyo2 final\02 sept\29 aug\22 aug\21 aug\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\vhuyo2 final\02 sept\29 aug\22 aug\21 aug\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.RazorAssemblyInfo.cache
+C:\Users\User\Documents\vhuyo2 final\02 sept\29 aug\22 aug\21 aug\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.RazorAssemblyInfo.cs
+C:\Users\User\Documents\vhuyo2 final\02 sept\29 aug\22 aug\21 aug\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.AssemblyInfoInputs.cache
+C:\Users\User\Documents\vhuyo2 final\02 sept\29 aug\22 aug\21 aug\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.AssemblyInfo.cs
+C:\Users\User\Documents\vhuyo2 final\02 sept\29 aug\22 aug\21 aug\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\vhuyo2 final\02 sept\29 aug\22 aug\21 aug\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.dll
+C:\Users\User\Documents\vhuyo2 final\02 sept\29 aug\22 aug\21 aug\15 August\WorkProject\WorkProject\obj\Debug\netcoreapp2.2\WorkProject.pdb

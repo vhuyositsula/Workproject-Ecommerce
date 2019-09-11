@@ -1,0 +1,87 @@
+<header>
+    <nav class="navbar navbar-expand-sm border-bottom mb-2" >
+      <a class="navbar-brand" (click)="backToStore()" ><img src="assets/img/logo2.png"></a>
+      <!--<p *ngFor="let alert of alerts">
+        <ngb-alert style="width: 300px;" [type]="alert.type" (close)="closeAlert(alert)">{{ alert.message }}</ngb-alert>
+      </p>-->
+      <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+        <ul class="navbar-nav flex-grow-2">
+          <li class="nav-item" *ngIf="(LoginStatus$ | async) as LoginStatus">
+               <a class="nav-link " style="color:  #991F41" *ngIf="(UserName$ | async) as UserName">{{UserName | uppercase}}</a>
+          </li>
+          <li class="nav-item">
+                <a class="nav-link " (click)="backToStore()" ><u>Store</u></a>
+          </li>   
+          <li class="nav-item">
+              <span>|</span>
+          </li>
+          <li class="nav-item" *ngIf="(LoginStatus$ | async) as LoginStatus">
+            <a class="nav-link " (click)="onLogout()" *ngIf="LoginStatus" ><u>Logout</u></a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+</header>
+
+<ng-template #noproduct>
+        <h2>No Product to Display</h2>
+</ng-template>
+
+<div class="container" *ngIf="product;else noproduct">
+        <div class="card">
+                <div class="row">
+                  <aside class="col-sm-5 border-right">
+                    <article class="gallery-wrap">
+                      <div class="img-big-wrap">
+                        <div> <a href="#"><img src="assets/{{product.imgUrl}}" style="height: 550px; width:460px"  /></a></div>
+                      </div> <!-- slider-product.// -->
+                     
+                    </article> <!-- gallery-wrap .end// -->
+                  </aside>
+                  <aside class="col-sm-7">
+                    <article class="card-body p-5">
+                      <h3 class="title mb-3" style="color:  #991F41" >{{product.name | uppercase}}</h3>
+            
+                      <p class="price-detail-wrap">
+                        <span class="price h3 " style="color: #575757">
+                          <span class="currency"></span><span class="num">{{product.price | currency: 'ZAR':'symbol-narrow':'.2'}}</span>
+                        </span>
+            
+                      </p> <!-- price-detail-wrap .// -->
+            
+                      <dl class="item-property">
+                        <dt class="text-uppercase " style="color: #575757" ><u>Description</u></dt>
+                        <dd>
+                          <p>
+                            {{product.description}}
+                          </p>
+                        </dd>
+                      </dl>
+                      <hr>
+            
+                      <div class="row">
+                        <div class="col-sm-4">
+                          <dl class="param param-feature">
+                            <dt class="text-uppercase text-danger"><u>Save</u></dt>
+                            <dd  class=" text-danger">{{product.price/100 * 25 | currency: 'ZAR':'symbol-narrow':'.2'}}</dd>
+                          </dl>  <!-- item-property-hor .// -->
+                        </div>
+                        <div class="col-sm-4">
+                          <dl class="param param-feature">
+                            <dt class="text-uppercase " style="color: #575757"><u>In STOCK</u></dt>
+                            <dd>{{true == product.outofstock ? 'No': 'Yes'}}</dd>
+                          </dl>  <!-- item-property-hor .// -->
+                        </div>
+                      </div>
+            
+            
+            
+                      <hr>
+                    
+                      <hr>
+                      <a class="btn btn-lg btn-outline-primary text-uppercase ml-2" (click)="backToStore()"> <i class="fas fa-shopping-cart"></i> Back to Store </a>
+                    </article> <!-- card-body.// -->
+                  </aside> <!-- col.// -->
+                </div> <!-- row.// -->
+              </div> <!-- card.// -->
+            </div>
